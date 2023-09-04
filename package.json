@@ -1,0 +1,8 @@
+{
+  "name": "rn-toolkit-saga-template",
+  "version": "0.1.0",
+  "description": "React Native TypeScript Redux Toolkit Redux Saga Template",
+  "repository": "git@github.com:ZoHayk/rn-toolkit-saga-template.git",
+  "author": "Hayk Zohrabyan",
+  "license": "MIT"
+}
