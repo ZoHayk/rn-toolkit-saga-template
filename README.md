@@ -1,4 +1,4 @@
-# React Native TypeScript Template with Redux Toolkit and Redux Toolkit
+# React Native TypeScript Template with Redux Toolkit and Redux Saga
 
 ## Installation
 ```bash
